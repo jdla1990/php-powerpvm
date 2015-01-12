@@ -1,0 +1,17 @@
+{
+  "name": "josedx20/masterloguinquintico",
+  "description": "description_text",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "josedx20",
+      "email": "jdla1990@gmail.com"
+    }
+  ],
+  "require": {
+    "slim/slim": "2.5.0",
+    "twig/twig": "1.6.5",
+    "doctrine/orm": "2.3.5"
+  }
+}
