@@ -15,6 +15,7 @@ require_once 'vendor/autoload.php';
 include_once PROJECT_DIR . "/include/boot.php";
 
 //load models
+include_once 'dbconfig.php';
 require_once PROJECT_DIR . '/models/autoload.php';
 
 //load views
